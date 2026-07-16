@@ -1,19 +1,143 @@
-<h1 align="center">Hallo, ich bin Franzy</h1>
-<h3 align="center">Full Stack Developer in Ausbildung</h3>
-<h4 align="center">Hamburg, Germany</h4>
+<h1 align="center">Hi 👋, ich bin Franzy</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franziskakalloch&label=Profile%20views&color=0e75b6&style=flat" alt="franziskakalloch" /> </p>
+<h3 align="center">
+  Full Stack Developer in Ausbildung aus Hamburg
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franziskakalloch" alt="franziskakalloch" /></a> </p>
-
-- 🌱 Zuerzeit lerne ich gerade Web Development Basics **HTML, CSS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Ich entwickle moderne und responsive Webanwendungen mit HTML/CSS und JavaScript oder Angular und TypeScript.
+  <br>
+  Aktuell vertiefe ich meine Kenntnisse in Frontend-Entwicklung, Datenbanken und Backend-Services.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=franziskakalloch&label=Profilaufrufe&style=flat"
+    alt="Profilaufrufe"
+  >
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franziskakalloch&show_icons=true&locale=en&layout=compact" alt="franziskakalloch" /></p>
+---
 
+## 👩‍💻 Über mich
+
+- 🎓 Ich absolviere aktuell eine Ausbildung zur **Full Stack Developerin**
+- 💻 Mein Schwerpunkt liegt gerade auf **Angular, TypeScript und SCSS**
+- 🗄️ Für Datenbanken und Backend-Funktionen arbeite ich mit **Supabase**
+- 🌱 Aktuell lerne ich mehr über **Clean Code, Angular Services und Datenarchitektur**
+- 🎯 Mein Ziel ist es, als **Full Stack Developerin** zu arbeiten
+- 📍 Hamburg, Deutschland
+
+---
+
+## 🚀 Meine aktuellen Projekte
+
+### 📋 Join – Kanban Task Manager
+
+Eine responsive Task-Management-Anwendung, die im Team entwickelt wird.
+
+**Funktionen:**
+
+- Aufgaben erstellen, bearbeiten und löschen
+- Kontakte verwalten
+- Aufgaben verschiedenen Bearbeitern zuweisen
+- Subtasks mit Fortschrittsanzeige
+- Kanban-Board mit verschiedenen Statusspalten
+- Datenverwaltung mit Supabase
+
+**Technologien:**
+
+`Angular` · `TypeScript` · `SCSS` · `Supabase` · `Git`
+
+<br>
+
+### 🌐 Persönliches Portfolio
+
+Mein persönliches Entwicklerinnen-Portfolio mit Informationen über mich, meine Fähigkeiten und meine Projekte.
+
+**Funktionen:**
+
+- Responsive Design
+- Deutsche und englische Sprachversion
+- Projektübersicht
+- Kontaktformular
+- Wiederverwendbare Angular-Komponenten
+
+**Technologien:**
+
+`Angular` · `TypeScript` · `SCSS` · `ngx-translate`
+
+---
+
+## 🛠️ Technologien und Tools
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass" alt="Frontend Technologien">
+</p>
+
+### Backend und Datenbanken
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,nodejs,mongodb,mysql" alt="Backend und Datenbanken">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Entwicklungswerkzeuge">
+</p>
+
+---
+
+## 📊 GitHub-Statistiken
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=franziskakalloch&show_icons=true&hide_border=true&theme=github_dark"
+    alt="Franzys GitHub-Statistiken"
+  >
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=franziskakalloch&layout=compact&hide_border=true&theme=github_dark"
+    alt="Meistverwendete Programmiersprachen"
+  >
+</p>
+
+---
+
+## 📫 Kontakt
+
+<p align="center">
+  <a href="DEIN-LINKEDIN-LINK">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
+  </a>
+
+  <a href="DEIN-PORTFOLIO-LINK">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Webseite-89BCD9?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    >
+  </a>
+
+  <a href="mailto:DEINE-EMAILADRESSE">
+    <img
+      src="https://img.shields.io/badge/E--Mail-Kontakt-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="E-Mail"
+    >
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💙 Danke für deinen Besuch auf meinem GitHub-Profil!
+</p>
