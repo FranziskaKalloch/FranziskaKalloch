@@ -96,17 +96,17 @@ Mein persönliches Entwicklerinnen-Portfolio mit Informationen über mich, meine
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=franziskakalloch&show_icons=true&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=FranziskaKalloch&show_icons=true&hide_border=true&theme=github_dark"
     alt="Franzys GitHub-Statistiken"
-  >
+  />
 </p>
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=franziskakalloch&layout=compact&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranziskaKalloch&layout=compact&hide_border=true&theme=github_dark"
     alt="Meistverwendete Programmiersprachen"
-  >
+  />
 </p>
 
 ---
