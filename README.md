@@ -114,7 +114,7 @@ Mein persönliches Entwicklerinnen-Portfolio mit Informationen über mich, meine
 ## 📫 Kontakt
 
 <p align="center">
-  <a href="DEIN-LINKEDIN-LINK">
+  <a href="https://www.linkedin.com/in/kalloch-franziska-a570b2175/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
@@ -128,7 +128,7 @@ Mein persönliches Entwicklerinnen-Portfolio mit Informationen über mich, meine
     >
   </a>
 
-  <a href="mailto:DEINE-EMAILADRESSE">
+  <a href="mailto:f.kalloch@outlook.de">
     <img
       src="https://img.shields.io/badge/E--Mail-Kontakt-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="E-Mail"
