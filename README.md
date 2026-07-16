@@ -98,7 +98,7 @@ Mein persönliches Entwicklerinnen-Portfolio mit Informationen über mich, meine
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=FranziskaKalloch&show_icons=true&hide_border=true&theme=github_dark"
     alt="Franzys GitHub-Statistiken"
-  />
+  >
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ Mein persönliches Entwicklerinnen-Portfolio mit Informationen über mich, meine
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranziskaKalloch&layout=compact&hide_border=true&theme=github_dark"
     alt="Meistverwendete Programmiersprachen"
-  />
+  >
 </p>
 
 ---
