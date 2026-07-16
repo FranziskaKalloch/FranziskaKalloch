@@ -1,5 +1,6 @@
 <h1 align="center">Hallo, ich bin Franzy</h1>
-<h3 align="center">ich bin gerade auf dem Weg zur Full Stack Developer.</h3>
+<h3 align="center">Full Stack Developer in Ausbildung</h3>
+<h4 align="center">Hamburg, Germany</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franziskakalloch&label=Profile%20views&color=0e75b6&style=flat" alt="franziskakalloch" /> </p>
 
