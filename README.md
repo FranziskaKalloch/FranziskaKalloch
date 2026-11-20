@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, ich bin Franzy</h1>
 
 <h3 align="center">
-  Full Stack Developer in Ausbildung aus Hamburg
+  Angehende Full Stack Developerin aus Hamburg
 </h3>
 
 <p align="center">
-  Ich entwickle moderne und responsive Webanwendungen mit HTML/CSS und JavaScript oder Angular und TypeScript.
+  Ich entwickle responsive Webanwendungen mit Angular und TypeScript
+  und vertiefe meine Backend-Kenntnisse mit Python, Django und Django REST Framework.
   <br>
-  Aktuell vertiefe ich meine Kenntnisse in Frontend-Entwicklung, Datenbanken und Backend-Services.
+  Aktuell starte ich mit Videoflix mein Backend-Abschlussprojekt.
 </p>
 
 <p align="center">
@@ -21,20 +22,46 @@
 
 ## 👩‍💻 Über mich
 
-- 🎓 Ich absolviere aktuell eine Ausbildung zur **Full Stack Developerin**
-- 💻 Mein Schwerpunkt liegt gerade auf **Angular, TypeScript und SCSS**
-- 🗄️ Für Datenbanken und Backend-Funktionen arbeite ich mit **Supabase**
-- 🌱 Aktuell lerne ich mehr über **Clean Code, Angular Services und Datenarchitektur**
+- 🎓 Ich absolviere eine Weiterbildung zur **Full Stack Developerin**
+- 💻 Im Frontend arbeite ich mit **Angular, TypeScript und SCSS**
+- 🐍 Im Backend beschäftige ich mich mit **Python, Django und Django REST Framework**
+- 🗄️ Für die Datenverwaltung nutze ich **Supabase** und arbeite im aktuellen Projekt mit **PostgreSQL**
+- 🌱 Aktuell vertiefe ich **REST-APIs, Authentifizierung, Hintergrundverarbeitung und Videostreaming**
 - 🎯 Mein Ziel ist es, als **Full Stack Developerin** zu arbeiten
 - 📍 Hamburg, Deutschland
 
 ---
 
-## 🚀 Meine aktuellen Projekte
+## 🚀 Meine Projekte
+
+### 🎬 Videoflix – Backend einer Videostreaming-Plattform
+
+Mein aktuelles Abschlussprojekt der Weiterbildung:
+Ich entwickle das Backend einer Videostreaming-Plattform im Stil von Netflix.
+Ein bereitgestelltes Frontend wird über eine REST-API angebunden.
+
+**Status:** Projektstart · in Entwicklung
+
+**Geplante Funktionen:**
+
+- Registrierung mit E-Mail-Aktivierung
+- Login, Logout und tokenbasierte Authentifizierung
+- Passwort zurücksetzen per E-Mail
+- Videoübersicht mit Genres und Thumbnails
+- Verarbeitung von Videos mit ffmpeg
+- HLS-Streaming in 480p, 720p und 1080p
+- Hintergrundaufgaben mit Django RQ und Redis
+- Caching mit Redis
+
+**Projekt-Stack:**
+
+`Python` · `Django` · `Django REST Framework` · `PostgreSQL` · `Redis` · `Django RQ` · `ffmpeg` · `Docker`
+
+<br>
 
 ### 📋 Join – Kanban Task Manager
 
-Eine responsive Task-Management-Anwendung, die im Team entwickelt wird.
+Eine responsive Task-Management-Anwendung als Teamprojekt.
 
 **Funktionen:**
 
@@ -53,7 +80,8 @@ Eine responsive Task-Management-Anwendung, die im Team entwickelt wird.
 
 ### 🌐 Persönliches Portfolio
 
-Mein persönliches Entwicklerinnen-Portfolio mit Informationen über mich, meine Fähigkeiten und meine Projekte.
+Mein Entwicklerinnen-Portfolio mit Informationen über mich,
+meine Fähigkeiten und meine Projekte.
 
 **Funktionen:**
 
@@ -71,22 +99,37 @@ Mein persönliches Entwicklerinnen-Portfolio mit Informationen über mich, meine
 
 ## 🛠️ Technologien und Tools
 
+Technologien, mit denen ich arbeite und die ich in meiner Weiterbildung vertiefe.
+
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass" alt="Frontend Technologien">
+  <img
+    src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass"
+    alt="Angular, TypeScript, JavaScript, HTML, CSS und Sass"
+  >
 </p>
 
 ### Backend und Datenbanken
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,nodejs,mongodb,mysql" alt="Backend und Datenbanken">
+  <img
+    src="https://skillicons.dev/icons?i=python,django,postgres,redis,supabase"
+    alt="Python, Django, PostgreSQL, Redis und Supabase"
+  >
 </p>
+
+**Zusätzlich im aktuellen Backend-Projekt:**
+
+`Django REST Framework` · `Django RQ` · `ffmpeg` · `HLS`
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Entwicklungswerkzeuge">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,docker"
+    alt="Git, GitHub, Visual Studio Code und Docker"
+  >
 </p>
 
 ---
@@ -118,13 +161,6 @@ Mein persönliches Entwicklerinnen-Portfolio mit Informationen über mich, meine
     <img
       src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
-    >
-  </a>
-
-  <a href="DEIN-PORTFOLIO-LINK">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Webseite-89BCD9?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
     >
   </a>
 
