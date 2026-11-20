@@ -40,7 +40,7 @@ Mein aktuelles Abschlussprojekt der Weiterbildung:
 Ich entwickle das Backend einer Videostreaming-Plattform im Stil von Netflix.
 Ein bereitgestelltes Frontend wird über eine REST-API angebunden.
 
-**Status:** Projektstart · in Entwicklung
+**Status:** in Entwicklung
 
 **Geplante Funktionen:**
 
@@ -61,7 +61,8 @@ Ein bereitgestelltes Frontend wird über eine REST-API angebunden.
 
 ### 📋 Join – Kanban Task Manager
 
-Eine responsive Task-Management-Anwendung als Teamprojekt.
+Eine responsive Task-Management-Anwendung, deren Frontend im Team entwickelt wurde.
+Aktuell entwickle ich dafür eigenständig ein Backend mit Django.
 
 **Funktionen:**
 
@@ -70,15 +71,21 @@ Eine responsive Task-Management-Anwendung als Teamprojekt.
 - Aufgaben verschiedenen Bearbeitern zuweisen
 - Subtasks mit Fortschrittsanzeige
 - Kanban-Board mit verschiedenen Statusspalten
-- Datenverwaltung mit Supabase
+- Bisherige Datenverwaltung mit Supabase
+
+**Aktuelle Weiterentwicklung:**
+
+- Eigenständige Entwicklung eines Django-Backends
 
 **Technologien:**
 
-`Angular` · `TypeScript` · `SCSS` · `Supabase` · `Git`
+`Angular` · `TypeScript` · `SCSS` · `Supabase` · `Python` · `Django` · `Git`
 
 <br>
 
 ### 🌐 Persönliches Portfolio
+
+wwww.franziska-kalloch.de
 
 Mein Entwicklerinnen-Portfolio mit Informationen über mich,
 meine Fähigkeiten und meine Projekte.
