@@ -25,7 +25,7 @@
 - 🎓 Ich absolviere eine Weiterbildung zur **Full Stack Developerin**
 - 💻 Im Frontend arbeite ich mit **Angular, TypeScript und SCSS**
 - 🐍 Im Backend beschäftige ich mich mit **Python, Django und Django REST Framework**
-- 🗄️ Für die Datenverwaltung nutze ich **Supabase** und arbeite im aktuellen Projekt mit **PostgreSQL**
+- 🗄️ Für die Datenverwaltung nutze ich **Django** und arbeite im aktuellen Projekt mit **PostgreSQL**
 - 🌱 Aktuell vertiefe ich **REST-APIs, Authentifizierung, Hintergrundverarbeitung und Videostreaming**
 - 🎯 Mein Ziel ist es, als **Full Stack Developerin** zu arbeiten
 - 📍 Hamburg, Deutschland
